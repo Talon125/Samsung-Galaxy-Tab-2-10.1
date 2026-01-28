@@ -20,6 +20,7 @@ This is me documenting playing around with the _Samsung Galaxy Tab 2 10.1_.
 - [Samsung Galaxy Tab 2 (10.1 inch)](#samsung-galaxy-tab-2-101-inch)
   - [Table of Contents](#table-of-contents)
   - [Flashing TWRP v2.8.5.0](#flashing-twrp-v2850)
+  - [Rooting](#rooting)
 
 ## Flashing TWRP v2.8.5.0
 
@@ -145,4 +146,14 @@ You should now see Team Win Recovery Project v2.8.5.0
 
 ![A screenshot of TWRP v2.8.5.0 running on the GT-P5100](
   Screenshots/Screenshot_2026-01-28-14-23-11.png
+)
+
+## Rooting
+
+In TWRP, you can flash `SuperSU-v2.82-201705271822.zip` from
+<https://supersuroot.org/download/>
+to root.
+
+![A screenshot of TWRP on the GT-P5100 flashing `SuperSU-v2.82-201705271822.zip`](
+  Screenshots/Screenshot_2026-01-28-14-54-04.png
 )
