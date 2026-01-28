@@ -88,6 +88,10 @@ You should get `Device detected` as the output.
 
 `cd` to the directory where you have your `twrp-2.8.5.0-p5100.img`.
 
+> [!WARNING]
+> Flashing incorrectly or using the wrong files may result in bricking.
+> Proceed with caution and at your own risk.
+
 Now run the following to flash TWRP to the recovery partition:
 
 ```bash
